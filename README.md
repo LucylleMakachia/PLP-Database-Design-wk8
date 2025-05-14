@@ -110,6 +110,12 @@ The database consists of the following tables:
 * A Book can have many Reservations.
 * A Loan can have one Fine.
 
+## ER Diagram
+
+![Library Management System ER Diagram](libraryerd.png)
+
+*The above diagram illustrates the relationships between the tables in the database schema.*
+
 ## Installation
 
 1.  Ensure you have MySQL installed.
